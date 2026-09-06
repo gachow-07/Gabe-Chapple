@@ -15,12 +15,12 @@ after each dash and leave the dashes alone.
 
 ---
 
-- **T &mdash; Thing:** *one sentence. If someone asked "what did you make?", this is the answer*
-- **A &mdash; Audience:** *a specific person, not a category*
-- **R &mdash; Requirements:** *the two or three things that, if missing, make it pointless*
-- **G &mdash; Guardrails:** *what it must never do*
-- **E &mdash; Experience:** *sections in order, one accent color, one site it should feel like*
-- **T &mdash; Test:** *what you would check before showing it to someone whose opinion you care about*
+- **T &mdash; Thing:** *A personal website that will highlight who I am and my skillset as well as showcaseing myexperiances and likes*
+- **A &mdash; Audience:** *an empoloyer*
+- **R &mdash; Requirements:** *a starting page with basic info about me then a few tabs such as a me tab that will highlight me futher, a tab for anything I have built or acomplishes*
+- **G &mdash; Guardrails:** *no making up an info or using Em dashes*
+- **E &mdash; Experience:** *#325788 as an acent color,[ one site it should feel like](https://diegonordonez.com/?utm_source=chatgpt.com)*
+- **T &mdash; Test:** *all the links that I give you like linkdin and emails all work perfectly*
 
 ---
 
