@@ -15,8 +15,8 @@ after each dash and leave the dashes alone.
 
 ---
 
-- **T &mdash; Thing:** *A personal website that will highlight who I am and my skillset as well as showcaseing my experiances as well as tast*
-- **A &mdash; Audience:** *an empoloyer in the econ feild*
+- **T &mdash; Thing:** *A personal website that will highlight who I am and my skillset as well as showcaseing my experiances as well as taste*
+- **A &mdash; Audience:** *an empoloyer in the econconmic/ busines feild*
 - **R &mdash; Requirements:** *a landing page with my picture and basic info about me then tabs with "Experience, Projects, About, Leadership & involvement, Skills, Contact  "*
 - **G &mdash; Guardrails:** *### DON'Ts
 
