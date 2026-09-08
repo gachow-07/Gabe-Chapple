@@ -18,38 +18,16 @@ after each dash and leave the dashes alone.
 - **T &mdash; Thing:** *A personal website that will highlight who I am and my skillset as well as showcaseing my experiances as well as taste*
 - **A &mdash; Audience:** *an empoloyer in the econconmic/ busines feild*
 - **R &mdash; Requirements:** *a landing page with my picture and basic info about me then tabs with "Experience, Projects, About, Leadership & involvement, Skills, Contact  "*
-- **G &mdash; Guardrails:** *### DON'Ts
-
-* Do not invent, exaggerate, or embellish any experience, internships, projects, skills, awards, leadership positions, accomplishments, or results.
-* Do not make me appear more experienced or qualified than I actually am.
-* Do not make me sound like I already work in consulting or information systems.
-* Do not fabricate statistics, percentages, performance metrics, or project outcomes.
-* Do not use generic AI-sounding language.
-* Do not overuse corporate buzzwords such as "visionary," "innovative leader," "results-driven," "dynamic professional," or "passionate problem solver."
-* Do not make the writing sound like it came from a corporation or senior executive.
-* Do not include long, unnecessary paragraphs or walls of text.
-* Do not overcrowd pages with information.
-* Do not use excessive animations, transitions, or interactive effects.
-* Do not use flashy gradients, glassmorphism, glowing elements, or startup-style visuals.
-* Do not use more than 2–3 primary colors.
-* Do not use generic corporate stock photos such as handshakes, skyscrapers, meetings, or people in suits.
-* Do not use fake skill percentages, ratings, progress bars, or proficiency meters.
-* Do not include fake testimonials, recommendations, or endorsements.
-* Do not add sections simply to make the website appear more substantial.
-* Do not include a blog, newsletter, or other section that will not actually be maintained.
-* Do not hide important information behind complicated navigation.
-* Do not make the résumé, LinkedIn, projects, or contact information difficult to find.
-* Do not sacrifice readability for aesthetics.
-* Do not use tiny fonts, low-contrast text, or unnecessarily complicated typography.
-* Do not use inconsistent spacing, fonts, button styles, or layouts.
-* Do not make the website feel like a résumé copied directly onto a webpage.
-* Do not make the website feel like a product landing page or advertisement.
-* Do not copy another person's website, branding, writing, or projects.
-* Do not include personal information that would be inappropriate or unnecessary for potential employers.
-* Do not prioritize looking impressive over being credible.
-* Do not make unsupported claims about my abilities.
-* Do not fill missing information by guessing. Leave it unspecified instead.
-* Do not make the website feel overly polished to the point that it seems artificial or disconnected from who I actually am.*
+- **G &mdash; Guardrails:** no em dahses Do not make the website look generic or AI-generated.
+Do not use too many colors, fonts, or animations.
+Do not add fake achievements, skills, or experience.
+Do not include unnecessary sections or filler content.
+Do not make the design cluttered or difficult to navigate.
+Do not use overly formal or robotic language.
+Do not add personal information without permission.
+Do not sacrifice mobile responsiveness for desktop design.
+Do not use low-quality or irrelevant images.
+Do not overcomplicate the layout—keep it clean and personal.*
 - **E &mdash; Experience:** *take the given promt and conteted inspo for colors and font and the site feel like this one:https://michaelpumo.com/?ref=onepagelove *
 - **T &mdash; Test:** *all the links that I give you like linkdin and emails all work perfectly*
 
