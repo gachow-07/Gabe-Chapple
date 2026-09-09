@@ -132,6 +132,9 @@
   @media (prefers-reduced-motion:reduce){
     .reveal{opacity:1;transform:none;transition:none;}
   }
+  @media (scripting:none){
+    .reveal{opacity:1;transform:none;}
+  }
 
   /* hero */
   .hero{padding-top:clamp(28px,6vw,64px);padding-bottom:clamp(56px,8vw,96px);}
@@ -326,7 +329,7 @@
           <a class="btn btn-secondary" href="https://www.linkedin.com/in/gabechapple/" target="_blank" rel="noopener">View LinkedIn</a>
         </div>
       </div>
-      <div class="portrait reveal">
+      <div class="portrait">
         <img src="assets/gabe-chapple.jpg" alt="Portrait of Gabe Chapple"
              onerror="this.style.display='none'; this.parentElement.classList.add('portrait--fallback')">
         <span class="portrait-fallback-mark" aria-hidden="true">GC</span>
